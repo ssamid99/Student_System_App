@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21f0937d-7c07-49c1-87ad-6140d8e18eeb": {
+      "ProjectGuid": "21f0937d-7c07-49c1-87ad-6140d8e18eeb",
+      "DisplayName": "ConsoleApp.StudentRegisterSystem",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
