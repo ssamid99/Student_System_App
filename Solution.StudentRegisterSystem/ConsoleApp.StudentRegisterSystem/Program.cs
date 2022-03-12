@@ -109,7 +109,12 @@ namespace ConsoleApp.StudentRegisterSystem
                     }
                     goto case Menu.StudentAll;
                 case Menu.StudentRemove:
-                    break;
+                    Console.Clear();
+                    ShowAllStudents(studentMgr);
+                    int valueSt = ScannerManager.ReadInteger("sechin");
+                    studentMgr.Remove(valueSt);
+                    goto case Menu.StudentAll;
+                    
                 case Menu.StudentSingle:
                     Console.Clear();
                     ShowAllStudents(studentMgr);

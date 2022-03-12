@@ -69,6 +69,19 @@ namespace ConsoleApp.StudentRegisterSystem.Managers
                 }
             }
         }
+        public void Remove(int value)
+        {
+
+            for (int i = 0; i < data.Length; i++)
+            {
+                if (data[i].Id == value)
+                {
+                    int studentIndex = value - 1;
+                    data = data.Where((source, index) => index != studentIndex).ToArray();
+                }
+
+            }
+        }
         public void Single(int value)
         {
             string singleStudent = "";

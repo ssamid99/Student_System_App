@@ -67,12 +67,8 @@ namespace ConsoleApp.StudentRegisterSystem.Managers
             {
                 if (data[i].Id == value)
                 {
-
                     int groupIndex = value - 1;
                     data = data.Where((source, index) => index != groupIndex).ToArray();
-
-
-
                 }
 
             }

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\12345\\Desktop\\Visual Code\\Solution.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem.csproj": {}
+    "C:\\Users\\samidms\\Desktop\\Student_System_App\\Solution.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\12345\\Desktop\\Visual Code\\Solution.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem.csproj": {
+    "C:\\Users\\samidms\\Desktop\\Student_System_App\\Solution.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\12345\\Desktop\\Visual Code\\Solution.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem.csproj",
+        "projectUniqueName": "C:\\Users\\samidms\\Desktop\\Student_System_App\\Solution.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem.csproj",
         "projectName": "ConsoleApp.StudentRegisterSystem",
-        "projectPath": "C:\\Users\\12345\\Desktop\\Visual Code\\Solution.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem.csproj",
-        "packagesPath": "C:\\Users\\12345\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\12345\\Desktop\\Visual Code\\Solution.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem\\obj\\",
+        "projectPath": "C:\\Users\\samidms\\Desktop\\Student_System_App\\Solution.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem.csproj",
+        "packagesPath": "C:\\Users\\samidms\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samidms\\Desktop\\Student_System_App\\Solution.StudentRegisterSystem\\ConsoleApp.StudentRegisterSystem\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\12345\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\samidms\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

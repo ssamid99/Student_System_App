@@ -14,3 +14,19 @@ C:\Users\12345\Desktop\Visual Code\Solution.StudentRegisterSystem\ConsoleApp.Stu
 C:\Users\12345\Desktop\Visual Code\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\obj\Debug\net5.0\ref\ConsoleApp.StudentRegisterSystem.dll
 C:\Users\12345\Desktop\Visual Code\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\obj\Debug\net5.0\ConsoleApp.StudentRegisterSystem.pdb
 C:\Users\12345\Desktop\Visual Code\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\obj\Debug\net5.0\ConsoleApp.StudentRegisterSystem.genruntimeconfig.cache
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\bin\Debug\net5.0\ConsoleApp.StudentRegisterSystem.exe
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\bin\Debug\net5.0\ConsoleApp.StudentRegisterSystem.deps.json
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\bin\Debug\net5.0\ConsoleApp.StudentRegisterSystem.runtimeconfig.json
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\bin\Debug\net5.0\ConsoleApp.StudentRegisterSystem.runtimeconfig.dev.json
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\bin\Debug\net5.0\ConsoleApp.StudentRegisterSystem.dll
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\bin\Debug\net5.0\ref\ConsoleApp.StudentRegisterSystem.dll
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\bin\Debug\net5.0\ConsoleApp.StudentRegisterSystem.pdb
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\obj\Debug\net5.0\ConsoleApp.StudentRegisterSystem.csproj.AssemblyReference.cache
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\obj\Debug\net5.0\ConsoleApp.StudentRegisterSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\obj\Debug\net5.0\ConsoleApp.StudentRegisterSystem.AssemblyInfoInputs.cache
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\obj\Debug\net5.0\ConsoleApp.StudentRegisterSystem.AssemblyInfo.cs
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\obj\Debug\net5.0\ConsoleApp.StudentRegisterSystem.csproj.CoreCompileInputs.cache
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\obj\Debug\net5.0\ConsoleApp.StudentRegisterSystem.dll
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\obj\Debug\net5.0\ref\ConsoleApp.StudentRegisterSystem.dll
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\obj\Debug\net5.0\ConsoleApp.StudentRegisterSystem.pdb
+C:\Users\samidms\Desktop\Student_System_App\Solution.StudentRegisterSystem\ConsoleApp.StudentRegisterSystem\obj\Debug\net5.0\ConsoleApp.StudentRegisterSystem.genruntimeconfig.cache
